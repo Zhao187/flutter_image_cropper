@@ -6,7 +6,7 @@ homepage: https://github.com/hnvn/flutter_image_cropper
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
-  flutter: ">=1.10.0 <2.0.0"
+  flutter: ">=1.9.0 <2.0.0"
 
 dependencies:
   flutter:
